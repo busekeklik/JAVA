@@ -1,0 +1,7 @@
+U   John Smith    80 60 96
+U   Jack Daniel   70 54 88
+G   Jill Jones    98 87 77
+U   Jan Taylor    90 78 87
+G   Mick Evans    88 85 20
+G   Mary Smith    50 60 40
+End
